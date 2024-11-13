@@ -44,3 +44,6 @@ application-db.properties
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+## Custom ###
+#src/main/resources/application.properties
